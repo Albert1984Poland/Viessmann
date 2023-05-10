@@ -1,0 +1,21 @@
+dt,AverageTemperature,AverageTemperatureUncertainty,State,Country
+1855-05-01,25.544,1.171,Acre,Brazil
+1855-06-01,24.228,1.103,Acre,Brazil
+1855-07-01,24.371,1.044,Acre,Brazil
+1855-08-01,25.427,1.073,Acre,Brazil
+1855-09-01,25.675,1.014,Acre,Brazil
+1832-01-01,21.943,1.497,Distrito Federal,Brazil
+1832-02-01,22.049,2.66,Distrito Federal,Brazil
+1832-03-01,21.8,1.564,Distrito Federal,Brazil
+1832-04-01,21.004,2.32,Distrito Federal,Brazil
+1832-05-01,20.135,1.946,Distrito Federal,Brazil
+1833-12-01,26.055,1.842,Mato Grosso,Brazil
+1834-01-01,24.096,1.491,Mato Grosso,Brazil
+1834-02-01,25.33,1.766,Mato Grosso,Brazil
+1834-03-01,25.968000000000004,1.775,Mato Grosso,Brazil
+1834-04-01,25.204,1.8,Mato Grosso,Brazil
+1834-05-01,25.296,1.3030000000000002,Mato Grosso,Brazil
+1835-01-01,23.365,1.847,Minas Gerais,Brazil
+1835-02-01,23.873,2.13,Minas Gerais,Brazil
+1835-03-01,21.625,2.092,Minas Gerais,Brazil
+1835-04-01,20.775,2.208,Minas Gerais,Brazil

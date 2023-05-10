@@ -1,0 +1,11 @@
+/dist/
+/build/
+/.idea/
+/viessmann_lib_pkg.egg-info/
+/.pytest_cache/
+/env/
+/venv/
+/.cache/
+/tests/unit/.cache/
+__pycache__
+/.eggs/
